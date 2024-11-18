@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+@apply bg-[#101e22] text-zinc-50 antialiased scroll-smooth;
+}
